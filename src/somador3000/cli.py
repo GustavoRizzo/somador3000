@@ -1,5 +1,6 @@
 import click
 
+
 @click.command()
 @click.argument('numero', type=float)
 def main(numero):
