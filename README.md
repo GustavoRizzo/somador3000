@@ -2,6 +2,8 @@
 
 É um pacote Python de linha de comando que soma 3000 ao número passado como argumento.
 
+🌟 O Somador3000 está disponível no [PyPI! Clique aqui para acessar a página oficial do pacote e conferir mais detalhes, avaliações e instruções de instalação.](https://pypi.org/project/somador3000/)
+
 
 ## 🚀 Instalação Rápida (Usuários)
 
