@@ -7,7 +7,7 @@ description = "Soma 3000 ao número passado como argumento"
 name = "somador3000"
 readme = "README.md"
 requires-python = ">=3.13"
-version = "0.1.1"
+version = "0.1.2"
 
 [project.scripts]
 somador3000 = "somador3000.cli:main"
