@@ -16,7 +16,7 @@ pip install somador3000
 Depois basta executar:
 
 ```bash
-somador3000 42
+somador3000 42  # or python -m somador3000 42
 # Output: O resultado de 42.0 + 3000 é: 3042.0
 ```
 
