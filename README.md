@@ -44,6 +44,22 @@ poetry run somador3000 42
 # Output: O resultado de 42.0 + 3000 é: 3042.0
 ```
 
+## 🌐 Rodando como Web App (FastAPI)
+
+Se você quiser rodar a aplicação como uma API web (FastAPI), basta instalar as dependências opcionais e executar o servidor:
+
+```bash
+poetry install --with web-app
+```
+
+Depois, rode o servidor com:
+
+```bash
+task run-web-app
+```
+
+Acesse a documentação interativa (Swagger) em: http://127.0.0.1:8000/docs
+
 
 # ✨ Funcionalidades
 
